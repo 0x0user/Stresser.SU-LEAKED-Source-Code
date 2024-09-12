@@ -1,0 +1,1 @@
+export const UPLOAD_URL_PATH = `https://support.${window.location.host}/uploads/`;

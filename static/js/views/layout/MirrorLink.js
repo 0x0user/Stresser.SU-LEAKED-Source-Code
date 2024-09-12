@@ -1,0 +1,1 @@
+export const MIRROR_LINK = "https://stresser-mirrors.com/";

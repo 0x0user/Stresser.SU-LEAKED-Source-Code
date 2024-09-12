@@ -1,0 +1,1 @@
+export const TELEGRAM_LINKS = ["https://t.me/stressernet", "https://t.me/stresserba"];

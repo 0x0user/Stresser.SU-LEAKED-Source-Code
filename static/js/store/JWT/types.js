@@ -1,0 +1,7 @@
+export const JWT_REFRESH_SUCCESS = "JWT_REFRESH_SUCCESS";
+
+export const JWT_REFRESH_ERROR = "JWT_REFRESH_ERROR";
+
+export const JWT_CLEAN_STATE = "JWT_CLEAN_STATE";
+
+export const JWT_LOGOUT =  "JWT_LOGOUT";
